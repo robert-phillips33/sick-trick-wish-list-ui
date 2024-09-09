@@ -31,7 +31,7 @@ function Form({ addTrick }) {
           <option value='Regular'>Regular</option>
           <option value='Switch'>Switch</option>
         </select>
-      <label>
+      <label className='trick-name'>
         name your trick, sk8r! :
         <input 
           type="text" 

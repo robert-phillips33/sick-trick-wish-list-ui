@@ -1,14 +1,15 @@
 .tricks-container {
   display: flex;
-  justify-content: center;
-  gap: 20px;
-  padding: 10px;
-  border: 15px;
+    gap: 20px;
+    padding: 10px;
+    border: 15px;
+    flex-direction: column;
+    align-items: center;
 }
 
 .trick-card {
-  background-color: #f4f4f4;
-  padding: 15px;
+  background-color: #876666;
+  padding: 5px;
   text-align: center;
 }
 
