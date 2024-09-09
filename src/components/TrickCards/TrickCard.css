@@ -1,0 +1,29 @@
+.tricks-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
+  border: 15px;
+}
+
+.trick-card {
+  background-color: #f4f4f4;
+  padding: 15px;
+  text-align: center;
+}
+
+.trick-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.trick-card p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.trick-card a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: bold;
+}

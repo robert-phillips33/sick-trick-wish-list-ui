@@ -1,0 +1,20 @@
+[
+  {
+    "stance": "regular",
+    "name": "treflip",
+    "obstacle": "flat ground",
+    "id": 1
+  },
+  {
+    "stance": "switch",
+    "name": "heelflip",
+    "obstacle": "stairs",
+    "id": 2
+  },
+  {
+    "stance": "regular",
+    "name": "frontside 50-50, backside 180 out",
+    "obstacle": "ledge",
+    "id": 3
+  }
+]
